@@ -1,4 +1,4 @@
-# Hi, I'm Sarukesh D 
+# Hi, I'm Sarukesh D 👋
 
 🎓 Electrical and Electronics Engineering Student
 
@@ -8,7 +8,7 @@ I'm interested in Embedded Systems, Automotive Electronics, IoT, and electrical 
 
 - **Programming:** C, Embedded C, C++, Python
 - **Microcontrollers:** ESP32, STM32, NXP S32K144
-- **Engineering Tools:** NXP S32 Design Studio, Arduino IDE, MATLAB, LTspice
+- **Engineering Tools:** NXP S32 Design Studio, Arduino IDE, MATLAB, LTspice, TSMaster, CANdb++
 - **Communication Protocols:** UART, I2C, CAN
 - **Core EEE:** Electrical Machines, Power Systems, Power Electronics, Control Systems
 - **Technologies:** Automotive Embedded Systems, Sensor Interfacing, PWM Control, IoT
@@ -29,7 +29,13 @@ Developing a backup-memory mechanism for data preservation, fault recovery, and 
 
 **Repository:** [Fallback Memory System](https://github.com/SarukeshDesingu/Redundant-Read-with-Fallback)
 
+### 3. Automotive CAN Dashboard
 
+Developing a vehicle dashboard interface using TSMaster and CANdb++ to represent vehicle parameters and status indicators. The project includes dashboard panel design, CAN message and signal configuration, system variables, and C-based control logic for ignition, speed, and brake status.
+
+**Technologies:** TSMaster, CANdb++, CAN Communication, C Scripting, Dashboard Design
+
+**Repository:** [Automotive CAN Dashboard – TSMaster](https://github.com/SarukeshDesingu/automotive-can-dashboard-tsmaster)
 
 ## Training & Experience
 
@@ -45,7 +51,7 @@ Developing a backup-memory mechanism for data preservation, fault recovery, and 
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/sarukesh07/](https://www.linkedin.com/)
+- **LinkedIn:** [Sarukesh D](https://www.linkedin.com/in/sarukesh07/)
 - **Email:** sarukeshdesingu@gmail.com
 
 ---

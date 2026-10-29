@@ -40,7 +40,7 @@ Developing a vehicle dashboard interface using TSMaster and CANdb++ to represent
 ## Training & Experience
 
 - **ANCIT GenX:** Automotive Embedded Systems Training
-- **HVF Avadi:** In-Plant Training in Electrical and Electronics Engineering, including CNC systems, electrical maintenance, battle tank assembly, and substation operations.
+- **HVF-Avadi (Ministry of Defence):** In-Plant Training in Electrical and Electronics Engineering, including CNC systems, electrical maintenance, battle tank assembly, and substation operations.
 
 ## Career Interests
 

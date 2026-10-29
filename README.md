@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Sarukesh D. 👋
 
-<!--
-**SarukeshDesingu/SarukeshDesingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical and Electronics Engineering Student
 
-Here are some ideas to get you started:
+I'm interested in Embedded Systems, Automotive Electronics, IoT, and electrical system monitoring. I enjoy exploring microcontrollers, hardware–software integration, and practical engineering solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming:** C, Embedded C, C++, Python
+- **Microcontrollers:** ESP32, STM32, NXP S32K144
+- **Engineering Tools:** NXP S32 Design Studio, Arduino IDE, MATLAB, LTspice
+- **Communication Protocols:** UART, I2C, CAN
+- **Core EEE:** Electrical Machines, Power Systems, Power Electronics, Control Systems
+- **Technologies:** Automotive Embedded Systems, Sensor Interfacing, PWM Control, IoT
+
+## Featured Projects
+
+### 1. Smart Campus Safety and Monitoring System
+
+Developing an ESP32-based monitoring system for electrical parameters, water usage, and campus safety using sensors and an interactive dashboard.
+
+**Repository:** [Smart Campus Dashboard](https://github.com/SarukeshDesingu/Smart-Campus-Dashboard)
+
+### 2. Fallback Memory System
+
+Developing a backup-memory mechanism for data preservation, fault recovery, and reliable embedded-system operation.
+
+**Technologies:** Embedded C, NXP S32 Design Studio, ADC, UART, PWM
+
+**Repository:** [Fallback Memory System](https://github.com/SarukeshDesingu/Redundant-Read-with-Fallback)
+
+
+
+## Training & Experience
+
+- **ANCIT GenX:** Automotive Embedded Systems Training
+- **HVF Avadi:** In-Plant Training in Electrical and Electronics Engineering, including CNC systems, electrical maintenance, tank assembly, and substation operations.
+
+## Career Interests
+
+- Automotive Embedded Systems
+- Embedded Software and Firmware Development
+- Electrical Systems and Power Engineering
+- IoT and Industrial Automation
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [https://www.linkedin.com/in/sarukesh07/](https://www.linkedin.com/)
+- **Email:** sarukeshdesingu@gmail.com
+
+---
+
+⭐ *Interested in learning, building, and solving real-world engineering problems through technology.*

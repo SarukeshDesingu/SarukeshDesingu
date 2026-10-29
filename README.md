@@ -1,4 +1,4 @@
-# Hi, I'm Sarukesh D. 👋
+# Hi, I'm Sarukesh D 
 
 🎓 Electrical and Electronics Engineering Student
 
